@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sudeshnaroy/Projects/ExploreEurope/ExploreEurope/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/sudeshnaroy/Projects/ExploreEurope/ExploreEurope/wwwroot/PHOTO-2022-10-16-18-57-42 3",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "/Users/sudeshnaroy/Projects/ExploreEurope/ExploreEurope/wwwroot/PHOTO-2022-10-16-18-57-42 3.jpg",
+      "PackagePath": "staticwebassets/PHOTO-2022-10-16-18-57-42 3.jpg"
+    },
+    {
+      "Id": "/Users/sudeshnaroy/Projects/ExploreEurope/ExploreEurope/wwwroot/PHOTO-2022-10-16-18-57-42 4.jpg",
+      "PackagePath": "staticwebassets/PHOTO-2022-10-16-18-57-42 4.jpg"
+    },
+    {
+      "Id": "/Users/sudeshnaroy/Projects/ExploreEurope/ExploreEurope/wwwroot/PHOTO-2022-10-16-18-57-43.jpg",
+      "PackagePath": "staticwebassets/PHOTO-2022-10-16-18-57-43.jpg"
+    },
+    {
+      "Id": "/Users/sudeshnaroy/Projects/ExploreEurope/ExploreEurope/wwwroot/asa2",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "/Users/sudeshnaroy/Projects/ExploreEurope/ExploreEurope/wwwroot/asa23",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "/Users/sudeshnaroy/Projects/ExploreEurope/ExploreEurope/wwwroot/asd",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "/Users/sudeshnaroy/Projects/ExploreEurope/ExploreEurope/wwwroot/asd1.png",
+      "PackagePath": "staticwebassets/asd1.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.ExploreEurope.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.ExploreEurope.props",
+      "PackagePath": "build\\ExploreEurope.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ExploreEurope.props",
+      "PackagePath": "buildMultiTargeting\\ExploreEurope.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ExploreEurope.props",
+      "PackagePath": "buildTransitive\\ExploreEurope.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
